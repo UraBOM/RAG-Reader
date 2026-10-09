@@ -1,0 +1,19 @@
+# Repo PUBLIC chỉ lưu tài liệu và bản binary trong Releases
+*.py
+*.pyc
+*.pyo
+*.ps1
+*.bat
+*.cmd
+*.p12
+*.pfx
+*.pem
+*.key
+*.env
+*.db
+*.sqlite
+/build/
+/reader/
+/languages/
+/tests/
+/tools/
