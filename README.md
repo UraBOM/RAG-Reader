@@ -11,7 +11,7 @@
 
 Ứng dụng dành cho Windows 10/11 64-bit. Tùy máy có thể cần Microsoft Edge WebView2 Runtime. Đừng tải file từ những trang phát hành không chính thức.
 
-> **Hiện chưa đính kèm bộ cài đặt.** Chủ dự án sẽ bổ sung ZIP **đã biên dịch và kiểm thử trên Windows** vào mục Releases. Không tải bất kỳ ZIP nào có mã nguồn thô lên repository này.
+> ⚠️ **Lưu ý bản thử v0.1.0-beta.1:** Đã có báo cáo ứng dụng không khởi động trên Windows. Tạm thời **không nên tải hoặc chia sẻ bản này**. Bản sửa sẽ chỉ được phát hành sau khi vượt qua kiểm tra mở giao diện thực tế. Không tải bất kỳ ZIP nào có mã nguồn thô lên repository này.
 
 ## Đóng góp ý kiến
 
